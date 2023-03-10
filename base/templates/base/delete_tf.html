@@ -1,0 +1,7 @@
+<form method="POST" action="">
+    {% csrf_token %}
+
+    <p>Quer mesmo apagar '{{tarefa.titulo}}'?</p>
+    <a href="{% url 'home' %}"></a>
+    <input type="submit" value="apagar">
+</form>
