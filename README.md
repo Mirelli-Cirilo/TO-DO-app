@@ -5,7 +5,7 @@ Na aplicação pude praticar a funcionalidade das urls e views, criação de for
 
 # PARA CLONAR O REPOSITÓRIO:
   
-  use o comando - "git clone https://github.com/divanov11/StudyBud.git"
+  use o comando - "git clone https://github.com/Mirelli-Cirilo/TO-DO-app.git"
   
   depois entre na pasta do projeto - "cd parafazer"
   
@@ -19,4 +19,4 @@ Na aplicação pude praticar a funcionalidade das urls e views, criação de for
   
   instale os 'requirements' - "pip install -r requirements.txt"
   
-  pra rodar a app use - "python manage.oy runserver"
+  pra rodar a app use - "python manage.py runserver"
