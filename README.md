@@ -3,7 +3,7 @@ Primeira aplicação para práticar o django, to-do simples. Colocando em práti
 Na aplicação pude praticar a funcionalidade das urls e views, criação de formulário atráves do 'modelform' e também o famoso CRUD.
 
 
-PARA CLONAR O REPOSITÓRIO:
+# PARA CLONAR O REPOSITÓRIO:
   
   use o comando - "git clone https://github.com/divanov11/StudyBud.git"
   
@@ -11,9 +11,9 @@ PARA CLONAR O REPOSITÓRIO:
   
   crie um ambiente virtual 
   
-  # primeiro instale o virtualenv - "pip install virtualenv"
+  -/ primeiro instale o virtualenv - "pip install virtualenv"
   
-  # agora crie seu ambiente virtual - "virtualenv nomedoenv"
+  -/ agora crie seu ambiente virtual - "virtualenv nomedoenv"
   
   ative seu ambiente virtual - "nomedoenv\scripts\activate"
   
